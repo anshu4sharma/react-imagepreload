@@ -1,6 +1,6 @@
 {
   "name": "@anshu0x/react-imagepreload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -8,6 +8,7 @@
     "prepublishOnly": "rm -rf ./dist && npm run build"
   },
   "author": "Anshu Sharma",
+  "repository": "https://github.com/anshu4sharma/react-imagepreload",
   "keywords": [
     "react",
     "image",

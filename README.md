@@ -15,10 +15,12 @@ To install the library, use your preferred package manager:
 ```bash
 npm install @anshu0x/react-imagepreload
 
-Usage
-Example
+```
+## Usage Example
+
 Here's a simple example demonstrating how to use the useImageLoader hook:
 
+```bash
 import React from 'react';
 import useImageLoader from '@anshu0x/react-imagepreload';
 
