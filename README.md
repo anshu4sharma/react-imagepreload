@@ -1,10 +1,10 @@
-# react-imagepreloader
+# @anshu0x/react-imagepreload
 
 A simple React hook for preloading images on the client side.
 
 ## Description
 
-The `react-imagepreloader` is a lightweight and customizable React hook that facilitates the preloading of images in your React applications. It can be particularly useful when you want to ensure that images are loaded before rendering certain components, improving the user experience by reducing latency.
+The `@anshu0x/react-imagepreload` is a lightweight and customizable React hook that facilitates the preloading of images in your React applications. It can be particularly useful when you want to ensure that images are loaded before rendering certain components, improving the user experience by reducing latency.
 
 This hook becomes `especially` beneficial in scenarios where your application involves large `background images or heavy assets`, where delayed loading could result in a less-than-optimal user interface experience.
 
@@ -13,14 +13,14 @@ This hook becomes `especially` beneficial in scenarios where your application in
 To install the library, use your preferred package manager:
 
 ```bash
-npm install react-imagepreloader
+npm install @anshu0x/react-imagepreload
 
 Usage
 Example
 Here's a simple example demonstrating how to use the useImageLoader hook:
 
 import React from 'react';
-import useImageLoader from 'react-imagepreloader';
+import useImageLoader from '@anshu0x/react-imagepreload';
 
 // ... your component code ...
 
